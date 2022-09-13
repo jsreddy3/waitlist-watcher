@@ -4,9 +4,9 @@ from selenium.webdriver.chrome.options import Options
 import time
 import smtplib
 
-DRIVER_PATH = '/usr/local/bin/chromedriver'
-SOURCE_EMAIL_ADDRESS =
-SOURCE_EMAIL_PASSWORD =
+DRIVER_PATH = ''
+SOURCE_EMAIL_ADDRESS = ''
+SOURCE_EMAIL_PASSWORD = ''
 DESTINATION_EMAIL_ADDRESS = ''
 
 options = Options()
